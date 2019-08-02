@@ -1,0 +1,1 @@
+Hàm lấy qr code từ string
